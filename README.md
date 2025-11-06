@@ -10,7 +10,7 @@ Projektissa on erillinen pelilogiikka ja graafinen käyttöliittymä.
 
 | Pelinäkymä | Voittotilanne |
 |<img width="220" height="371" alt="Näyttökuva 2025-11-06 181515" src="https://github.com/user-attachments/assets/1b705411-abce-4cd1-8a80-90d663ca3527" />
-|<img width="220" height="351" alt="Näyttökuva 2025-11-06 181515" src="https://github.com/user-attachments/assets/1b939cd3-0866-4578-a9ff-52340201a096" />
+|<img width="220" height="371" alt="Näyttökuva 2025-11-06 181515" src="https://github.com/user-attachments/assets/1b939cd3-0866-4578-a9ff-52340201a096" />
 
 ---
 
